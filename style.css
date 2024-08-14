@@ -19,6 +19,7 @@
   height: 100vh;
   background-color: var(--black-color);
   position: relative;
+  overflow: hidden;
 }
 
 .card {
@@ -115,6 +116,7 @@
   transform: translate(-270px) rotate(-20deg);
 }
 
+/*
 @media (max-width: 830px) {
   .card {
     width: 150px;
@@ -175,3 +177,4 @@
     transform: translate(-130px) rotate(15deg);
   }
 }
+*/
