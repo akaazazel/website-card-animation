@@ -116,7 +116,6 @@
   transform: translate(-270px) rotate(-20deg);
 }
 
-/*
 @media (max-width: 830px) {
   .card {
     width: 150px;
@@ -136,45 +135,44 @@
   }
 
   .card-0 {
-    transform: translate(115px) rotate(-21deg);
+    transform: translate(175px, -80px) rotate(25deg);
   }
   .card-0:hover {
-    transform: translate(115px) rotate(-26deg);
+    transform: translate(175px, -80px) rotate(30deg);
   }
 
   .card-1 {
-    transform: translate(90px, 150px) rotate(21deg);
+    transform: translate(150px, 100px) rotate(37deg);
   }
   .card-1:hover {
-    transform: translate(90px, 150px) rotate(26deg);
+    transform: translate(150px, 100px) rotate(42deg);
   }
 
   .card-2 {
-    transform: translate(100px, -140px) rotate(15deg);
+    transform: translate(-140px, -120px) rotate(-13deg);
   }
   .card-2:hover {
-    transform: translate(100px, -140px) rotate(20deg);
+    transform: translate(-140px, -120px) rotate(-18deg);
   }
 
   .card-4 {
-    transform: translate(-50px, 150px) rotate(-21deg);
+    transform: translate(-140px, 80px) rotate(-33deg);
   }
   .card-4:hover {
-    transform: translate(-50px, 150px) rotate(-26deg);
+    transform: translate(-140px, 80px) rotate(-38deg);
   }
 
   .card-5 {
-    transform: translate(-50px, -150px) rotate(35deg);
+    transform: translate(20px, -165px) rotate(-32deg);
   }
   .card-5:hover {
-    transform: translate(-50px, -150px) rotate(30deg);
+    transform: translate(20px, -165px) rotate(-37deg);
   }
 
   .card-6 {
-    transform: translate(-130px) rotate(10deg);
+    transform: translate(25px, 170px) rotate(20deg);
   }
   .card-6:hover {
-    transform: translate(-130px) rotate(15deg);
+    transform: translate(25px, 170px) rotate(25deg);
   }
 }
-*/
